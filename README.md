@@ -1,7 +1,7 @@
 # supplychainanalytics-
 supply chain analytics project in python 
 
-Supply Chain Shipment Pricing Data - Analysis and Modeling
+## Supply Chain Shipment Pricing Data - Analysis and Modeling
 This project performs exploratory data analysis and visualization on a real-world supply chain dataset, specifically focused on health commodity shipment and pricing data. It aims to derive insights into country-wise distribution, shipment modes, manufacturing sources, and pricing patterns.
 
 📁 Dataset
